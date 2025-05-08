@@ -6,7 +6,7 @@ This repository contains experimental data supporting the study titled **"Parall
 
 The experiments focus on evaluating the performance of parallel rainbow table generation using the Message Passing Interface (MPI) across various cryptographic hash functions. The primary metrics assessed include execution time, speedup, and efficiency, with variations in the number of computing nodes and table sizes.
 
-## Dataset Description
+## Data Description
 
 The repository includes the following CSV files, each representing a specific experimental scenario:
 
