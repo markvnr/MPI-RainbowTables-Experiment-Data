@@ -1,7 +1,29 @@
 # MPI-RainbowTables-Experiment-Data
-This repo contains the data for the experiments of parallel rainbow tables generation using Message Passing Interface (MPI)
 
-first_experiment_case1_10000x20000.csv contains the data of the case 1 of the first experiment which evaluates the effect of the number of nodes on execution time, speedup, and efficiency for a table of size 10000x20000.  
-first_experiment_case1_50000x40000.csv contains the data of the case 2 of the first experiment which evaluates the effect of the number of nodes on execution time, speedup, and efficiency for a table of size 50000x40000.
-second_experiment.csv contains the data of the second experiment which examines the impact of the number of chains on execution time.  
-third_experiment.csv contains the data of the third experiment which analyzes how chain length affects execution time.  
+This repository contains experimental data supporting the study titled **"Parallelization of Rainbow Tables Generation Using Message Passing Interface: A Study on NTLM, MD5, SHA-256 and SHA-512 Cryptographic Hash Functions"**, to be published in *MDPI Electronics*.
+
+## Overview
+
+The experiments focus on evaluating the performance of parallel rainbow table generation using the Message Passing Interface (MPI) across various cryptographic hash functions. The primary metrics assessed include execution time, speedup, and efficiency, with variations in the number of computing nodes and table sizes.
+
+## Dataset Description
+
+The repository includes the following CSV files, each representing a specific experimental scenario:
+
+- **first_experiment_case1_10000x20000.csv**  
+  Data from the first experiment, Case 1, analyzing the impact of varying the number of nodes on execution time, speedup, and efficiency for a table size of 10,000 x 20,000.
+
+- **first_experiment_case2_50000x40000.csv**  
+  Data from the first experiment, Case 2, focusing on a larger table size of 50,000 x 40,000, assessing similar performance metrics as in Case 1.
+
+- **second_experiment.csv**  
+  Results from the second experiment, which examines the influence of chain count on the execution time.
+
+- **third_experiment.csv**  
+  Data from the third experiment, exploring the The influence of chain length on the execution time.
+
+## Citation
+
+If you use this data in your research or publications, please cite the forthcoming paper:
+
+> **[Authors' Names]**. "Parallelization of Rainbow Tables Generation Using Message Passing Interface: A Study on NTLM, MD5, SHA-256 and SHA-512 Cryptographic Hash Functions." *MDPI Electronics*, [Year].
