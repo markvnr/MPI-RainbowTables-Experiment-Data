@@ -21,9 +21,3 @@ The repository includes the following CSV files, each representing a specific ex
 
 - **third_experiment.csv**  
   Data from the third experiment, exploring the The influence of chain length on the execution time.
-
-## Citation
-
-If you use this data in your research or publications, please cite the forthcoming paper:
-
-> **[Authors' Names]**. "Parallelization of Rainbow Tables Generation Using Message Passing Interface: A Study on NTLM, MD5, SHA-256 and SHA-512 Cryptographic Hash Functions." *MDPI Electronics*, [Year].
