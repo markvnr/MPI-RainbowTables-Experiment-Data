@@ -1,6 +1,6 @@
 # MPI-RainbowTables-Experiment-Data
 
-This repository contains experimental data supporting the study titled **"Parallelization of Rainbow Tables Generation Using Message Passing Interface: A Study on NTLM, MD5, SHA-256 and SHA-512 Cryptographic Hash Functions"**, to be published in *MDPI Electronics*.
+This repository contains experimental data supporting the study titled **"Parallelization of Rainbow Tables Generation Using Message Passing Interface: A Study on NTLM, MD5, SHA-256 and SHA-512 Cryptographic Hash Functions"**, to be published soon.
 
 ## Overview
 
