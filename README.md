@@ -23,4 +23,4 @@ The repository includes the following CSV files, each representing a specific ex
   Data from the third experiment, exploring the The influence of chain length on the execution time.
 
 ## Citation
-Vainer, M., Kačeniauskas, A., & Goranin, N. (2025). Parallelization of Rainbow Tables Generation Using Message Passing Interface: A Study on NTLMv2, MD5, SHA-256 and SHA-512 Cryptographic Hash Functions. Applied Sciences, 15(x), Article x. https://doi.org/10.3390/xxxxx
+**<u>Vainer, M.</u>**, Kačeniauskas, A., & Goranin, N. (2025). Parallelization of Rainbow Tables Generation Using Message Passing Interface: A Study on NTLMv2, MD5, SHA-256 and SHA-512 Cryptographic Hash Functions. Applied Sciences, 15(x), Article x. https://doi.org/10.3390/xxxxx
